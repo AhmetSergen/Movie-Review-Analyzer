@@ -28,8 +28,8 @@ Bu projede amaç, bu veri setini kullanarak en iyi tutarlılığa sahip analiz m
       <li>Büyük harfler</li>
       <li>Özel karakterler</li>
       <li>Yazım ve Heceleme Yanlışları Typos Spell Check</li>
-      <li>Kökleştirme ( Stemming</li>
-      <li>Etkisiz Kelimeler ( Stopwords</li>
+      <li>Kökleştirme (Stemming)</li>
+      <li>Etkisiz Kelimeler (Stopwords)</li>
   </ul>
   <li>Öznitelik Temsili (Feature Representation)</li>
   <ul>
@@ -54,3 +54,16 @@ Bu projede amaç, bu veri setini kullanarak en iyi tutarlılığa sahip analiz m
     <li>F-Measure</li>
   </ul>
 </ul>
+
+### Ön İşleme (Preprocessing)
+
+Veri önişleme, model için kullanılacak verinin, ham veriden anlaşılabilir veriye dönüştürülme tekniğine denir.
+Öznitelik işlemlerinden önce kullanılacak olan verinin daha uygun, sade ve az karmaşık hale getirilmesi amaçlanır.
+İnternet ortamında yapılan, geneli amatör olan yorumlarda veri modeli için performans düşüklüğüne yol açacak unsurların olması kaçınılmazdır.
+Önişleme ile ham veri seti amacına daha uygun bir şekle getirilir.
+
+### HyperText Etiketleri
+
+İnternet kaynaklarından alınan metinlerde, web programlamada kullanılan etiketler bulunabilir. 
+Örneğin : &#60;Hello&#62;
+Bu etiketlerin model oluşturmada bir değeri yoktur ve bu yüzden ayıklanması gereklidir.
