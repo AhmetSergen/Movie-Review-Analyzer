@@ -1,5 +1,7 @@
 # Movie-Review-Analyzer
-Semantic Analysis For IMDB Movie Reviews
+
+This semantic analysis of IMDB movie commentary project on data mining subject was developed by:
+Ahmet Sergen Boncuk and Murat Mert Yurdakul.
 
 ## Açıklama [TR]
 
