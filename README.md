@@ -21,7 +21,9 @@ Bu projede amaç, bu veri setini kullanarak en iyi tutarlılığa sahip analiz m
 
 ### Yapılan İşlemler
 
-####Ön işleme
 <ul>
-  <li>HyperText etiketleri</li>
+  <li>Ön işleme</li>
+  <ul>
+      <li>HyperText etiketleri</li>
+  </ul>
 </ul>
