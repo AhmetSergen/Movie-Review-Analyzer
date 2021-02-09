@@ -29,7 +29,7 @@ Bu projede amaç, bu veri setini kullanarak en iyi tutarlılığa sahip analiz m
       <li>HyperText etiketleri</li>
       <li>Büyük harfler</li>
       <li>Özel karakterler</li>
-      <li>Yazım ve Heceleme Yanlışları Typos Spell Check</li>
+      <li>Yazım ve Heceleme Yanlışları (Typos-SpellCheck)</li>
       <li>Kökleştirme (Stemming)</li>
       <li>Etkisiz Kelimeler (Stopwords)</li>
   </ul>
@@ -40,9 +40,9 @@ Bu projede amaç, bu veri setini kullanarak en iyi tutarlılığa sahip analiz m
   </ul>
   <li>Öğrenme Algoritmaları (Learning Algorithms)</li>
   <ul>
-    <li>Decision Tree (Karar</li>
+    <li>Decision Tree (Karar Ağacı)</li>
     <li>Support Vector Machine (SVM)</li>
-    <li>Naive Bayes (Basit Bayes</li>
+    <li>Naive Bayes (Basit Bayes)</li>
     <li>K-Nearest Neighbor</li>
     <li>Random Forest</li>
     <li>K-Means</li>
