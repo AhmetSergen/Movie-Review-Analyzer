@@ -65,5 +65,5 @@ Veri önişleme, model için kullanılacak verinin, ham veriden anlaşılabilir 
 ### HyperText Etiketleri
 
 İnternet kaynaklarından alınan metinlerde, web programlamada kullanılan etiketler bulunabilir. 
-Örneğin : &#60;Hello&#62;
+Örneğin : &#60;h1&#62;Hello&#60;/h1&#62;
 Bu etiketlerin model oluşturmada bir değeri yoktur ve bu yüzden ayıklanması gereklidir.
