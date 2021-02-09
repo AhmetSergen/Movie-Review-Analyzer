@@ -110,7 +110,7 @@ IMDB veri seti 25000 farklı, algoritma için anlam taşımayan yorumdan oluştu
 
 ### Raw Term-Frequency
 
-TF = f(t,d) 
+TF = f(t,d)<br>
 t teriminin , d dökümanında kaç kez geçtiğidir.
 Bu algoritmada, önişlemden geçmiş niteliklerin her iki sınıfta da (pozitif negatif) kaç kez geçtiği bulunmuştur. Bu değerler bir tablo haline getirilmiştir.
 Sonrasında, kullanım sayıları iki sınıf arasında belirli bir oranda yakınlık gösteren nitelikler elenmiştir. Çünkü her iki sınıfta da yakın oranda bulunan nitelikler, birbiri ile aynı etkiye sahip olacağından, modelin geliştirilmesinde bir yardımı olmayacaktır.
