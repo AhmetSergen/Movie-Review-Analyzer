@@ -22,8 +22,35 @@ Bu projede amaç, bu veri setini kullanarak en iyi tutarlılığa sahip analiz m
 ### Yapılan İşlemler
 
 <ul>
-  <li>Ön işleme</li>
+  <li>Ön işleme (Preprocessing)</li>
   <ul>
       <li>HyperText etiketleri</li>
+      <li>Büyük harfler</li>
+      <li>Özel karakterler</li>
+      <li>Yazım ve Heceleme Yanlışları Typos Spell Check</li>
+      <li>Kökleştirme ( Stemming</li>
+      <li>Etkisiz Kelimeler ( Stopwords</li>
+  </ul>
+  <li>Öznitelik Temsili (Feature Representation)</li>
+  <ul>
+    <li>Raw Term-Frequency</li>
+    <li>N-Gram</li>
+  </ul>
+  <li>Öğrenme Algoritmaları (Learning Algorithms)</li>
+  <ul>
+    <li>Decision Tree (Karar</li>
+    <li>Support Vector Machine (SVM)</li>
+    <li>Naive Bayes (Basit Bayes</li>
+    <li>K-Nearest Neighbor</li>
+    <li>Random Forest</li>
+    <li>K-Means</li>
+  </ul>
+  <li>Performans Değerlendirmesi (Performance Parameters)</li>
+  <ul>
+    <li>Confusion Matrix</li>
+    <li>Accuracy</li>
+    <li>Precision</li>
+    <li>Recall</li>
+    <li>F-Measure</li>
   </ul>
 </ul>
